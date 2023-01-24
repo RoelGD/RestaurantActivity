@@ -1,0 +1,55 @@
+*{
+  box-sizing: border-box;
+  
+}
+
+.header{
+background-color: red;
+height: 50px;
+display: flex; 
+}
+
+.logo{
+  border: 1px solid bisque;
+  padding: 5px;
+  margin: 20px;
+}
+
+.slogan{
+text-align: center;
+}
+
+.navigation{
+background-color: aqua;
+border: 1px solid chocolate ;
+display: flex;
+margin-top: 10px;
+}
+
+#about{
+color: blue;
+border: 1px solid black;
+margin-left: 20px;
+padding: 10px 20px;
+}
+
+#menu{
+color: red;
+border: 1px solid black;
+margin-left: 20px;
+padding: 10px 20px;
+}
+
+#gallery{
+color:yellow;
+border: 1px solid black;
+margin-left: 20px;
+padding: 10px 20px;
+}
+
+#contact_us{
+color: green;
+border: 1px solid black;
+margin-left: 20px;
+padding: 10px 20px;
+}
